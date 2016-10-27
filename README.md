@@ -1,2 +1,2 @@
-# UTS_pmobpro
-untuk matakuliah p.mobpro
+# UTS
+UTS Praktikum Mobile Programming
